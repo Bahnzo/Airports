@@ -1,0 +1,8 @@
+<Project Version="2" Name="CO22_Field" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\bahnzo-airport-co22-hildebrandt.xml</Package>
+	</Packages>
+</Project>
+

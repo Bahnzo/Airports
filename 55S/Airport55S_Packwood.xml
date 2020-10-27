@@ -1,0 +1,8 @@
+<Project Version="2" Name="Airport55S_Packwood" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\bahnzo-55s-packwood.xml</Package>
+	</Packages>
+</Project>
+

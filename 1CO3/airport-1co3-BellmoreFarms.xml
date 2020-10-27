@@ -1,0 +1,8 @@
+<Project Version="2" Name="airport-1co3-BellmoreFarms" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\bahnzo-1co3-bellmorefarms.xml</Package>
+	</Packages>
+</Project>
+

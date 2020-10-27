@@ -1,0 +1,8 @@
+<Project Version="2" Name="WY51_Airport" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-wy51-plattvalley.xml</Package>
+	</Packages>
+</Project>
+

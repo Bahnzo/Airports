@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "AirportServices/1CO3/Services.xml",
+      "size": 2626,
+      "date": 132453747363634479
+    },
+    {
+      "path": "ContentInfo/bahnzo-1co3-bellmorefarms/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132453811902593366
+    },
+    {
+      "path": "scenery/1co3Airport.bgl",
+      "size": 1640,
+      "date": 132454704260913669
+    },
+    {
+      "path": "scenery/CVX0013.BGL",
+      "size": 962,
+      "date": 132454704260997667
+    }
+  ]
+}

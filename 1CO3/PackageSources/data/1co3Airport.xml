@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Car01_White-->
+	<SceneryObject lat="40.70800801147725" lon="-104.80074071539755" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4F460367-2D3B-46F2-8225-CBEC56300F3C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car02_Blue-->
+	<SceneryObject lat="40.70820003839502" lon="-104.80075287557713" alt="0.00000000000000" pitch="0.001216" bank="-0.001168" heading="92.069051" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1E3E0562-E890-48DD-B785-0C3FE6C09177}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car03_Green-->
+	<SceneryObject lat="40.70825407020865" lon="-104.80075051816043" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="91.167179" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7254FBA8-0A01-46CE-AC0A-9995D8303030}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: CarUtility01_Red-->
+	<SceneryObject lat="40.70815536608374" lon="-104.80074942674726" alt="0.00000000000000" pitch="0.000984" bank="-0.000984" heading="91.653038" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0055641C-6990-49D3-A522-A842AC04D5B6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: ConstructionDumpster_Green_Full-->
+	<SceneryObject lat="40.70847589602582" lon="-104.80024299989495" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{77DB2891-1C77-4060-8830-B5A3A3A7ABDF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Flag_USA_Anim-->
+	<SceneryObject lat="40.70851865693670" lon="-104.80074935239158" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{243CB380-9A67-4AB4-85F6-7E253B2F3A49}" scale="0.564479"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar103-->
+	<SceneryObject lat="40.70844414822229" lon="-104.80054721019201" alt="0.00000000000000" pitch="0.002452" bank="-0.001544" heading="-92.767964" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{72EE3593-7B81-4D21-A723-7B5DA3B87B8E}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="40.70777460343112" lon="-104.79940809561241" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	</SceneryObject>
+	<Airport country="United States" state="Colorado" city="Nunn" name="Bellmore Farms" ident="1CO3" lat="40.70786500547693" lon="-104.79979624297056" alt="1594.83228743169457" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="40.70805824166327" lon="-104.80016848275126" heading="180.000000" radius="5.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="40.70805705812765" lon="-104.80047766546366" heading="180.000000" radius="5.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="40.70588616301803" lon="-104.79982385208419" alt="1587.44989516772330" heading="180.00000000000000" length="950.00000000000000" width="15.00000000000000" patternAltitude="304.79998779296875" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="18" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="40.71002625321389" lon="-104.79983276217664" alt="1587.45232097618282" heading="180.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="40.70176617579045" lon="-104.79982669160829" alt="1587.47098893299699" heading="0.00000000000000"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{C41DCF17-5F56-40EC-B601-246CADE75D8B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="-0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="40.70848453778794" lon="-104.80077376447971"/>
+				<Vertex lat="40.70848453778795" lon="-104.79991061164337"/>
+				<Vertex lat="40.70796402155169" lon="-104.79991061500370"/>
+				<Vertex lat="40.70796402155168" lon="-104.80077376111937"/>
+			</Apron>
+			<Apron surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="-0.000000" falloff="0.000000" opacity="4" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="40.71014820295382" lon="-104.80003199083983"/>
+				<Vertex lat="40.71014820295382" lon="-104.79967705972980"/>
+				<Vertex lat="40.69917662061410" lon="-104.79967708884938"/>
+				<Vertex lat="40.69917662061410" lon="-104.80003196172025"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="40.70804373565191" lon="-104.80012107317062"/>
+				<Vertex lat="40.70804317105905" lon="-104.80021787665940"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="40.70804564039656" lon="-104.80043305973413"/>
+				<Vertex lat="40.70804469859756" lon="-104.80052331942731"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="40.70804345180036" lon="-104.80016761441297"/>
+				<Vertex lat="40.70809000207714" lon="-104.80016864573541"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="40.70804545363264" lon="-104.80047795809362"/>
+				<Vertex lat="40.70808980851093" lon="-104.80047837098472"/>
+			</PaintedLine>
+		</PaintedElements>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="FALSE" deleteAllHelipads="FALSE" deleteAllRunways="TRUE" deleteAllStarts="FALSE" deleteAllTaxiways="TRUE" deleteAllBlastFences="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+	</Airport>
+</FSData>
+

@@ -1,0 +1,29 @@
+{
+  "content": [
+	 {
+      "path": "AirportServices/CO61/Services.xml",
+      "size": 2626,
+      "date": 132453747363634479
+    },
+	{
+      "path": "manifest.json",
+      "size": 270,
+      "date": 132453221774185121
+    },
+    {
+      "path": "ContentInfo/bahnzo-airport-co61-goldenfield/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "scenery/CO61AirportScenery.bgl",
+      "size": 1182,
+      "date": 132461588756355958
+    },
+    {
+      "path": "scenery/CVX0061.BGL",
+      "size": 944,
+      "date": 132461588756425968
+    }
+  ]
+}

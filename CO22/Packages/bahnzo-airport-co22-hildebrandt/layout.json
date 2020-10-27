@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "AirportServices/CO22/Services.xml",
+      "size": 2626,
+      "date": 132453747363634479
+    },
+    {
+      "path": "ContentInfo/bahnzo-airport-co22-hildebrandt/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 270,
+      "date": 132453221774185121
+    },
+    {
+      "path": "scenery/CO22_Airport.bgl",
+      "size": 3020,
+      "date": 132453819531255990
+    },
+    {
+      "path": "scenery/CVX0022.BGL",
+      "size": 926,
+      "date": 132453210530234005
+    }
+  ]
+}

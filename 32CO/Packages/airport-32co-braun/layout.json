@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "AirportServices/32CO/Services.xml",
+      "size": 2626,
+      "date": 132453747363634479
+    },
+    {
+      "path": "ContentInfo/airport-32co-braun/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 276,
+      "date": 132481348837778360
+    },
+    {
+      "path": "scenery/32COAirport.bgl",
+      "size": 1784,
+      "date": 132481356536233061
+    },
+    {
+      "path": "scenery/CVX0032.BGL",
+      "size": 945,
+      "date": 132481355432741012
+    }
+  ]
+}

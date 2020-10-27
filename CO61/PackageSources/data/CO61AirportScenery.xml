@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="37.84283989306272" lon="-105.21337790153801" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="123.067551" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="1.500000"/>
+	</SceneryObject>
+	<SceneryObject lat="37.84251742401958" lon="-105.21339171516973" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	</SceneryObject>
+	<Airport country="United States" state="Colorado" name="Golden Field(Yellow Hat)" ident="CO61" lat="37.83807538419054" lon="-105.20494905579348" alt="2312.82288419175893" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="37.84264666933348" lon="-105.21342169580420" heading="180.000000" radius="4.249999" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="37.84273857167066" lon="-105.21359589830084" heading="180.000000" radius="5.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="37.84139040988158" lon="-105.21145471379191" alt="2311.09810921270400" heading="302.50000000000000" length="1462.76379394531250" width="15.00000000000000" patternAltitude="304.79998779296875" surface="{7C6FB244-7C4A-4BBE-90C6-1A35BA69498D}" transparent="FALSE" number="29" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="37.83790444001941" lon="-105.20456058307458" alt="2311.16835554223508" heading="-54.99466323852539"/>
+			<RunwayStart end="SECONDARY" lat="37.84490192603054" lon="-105.21840531596496" alt="2311.11675739567727" heading="121.62171936035156"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{7C6FB244-7C4A-4BBE-90C6-1A35BA69498D}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.711358" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="37.84286193196042" lon="-105.21357559292774"/>
+				<Vertex lat="37.84271571371940" lon="-105.21328908502990"/>
+				<Vertex lat="37.84248850876406" lon="-105.21347346744078"/>
+				<Vertex lat="37.84263472656217" lon="-105.21375997482370"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="37.84274874342473" lon="-105.21361624630747"/>
+				<Vertex lat="37.84271871987816" lon="-105.21354972972921"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="37.84260890700664" lon="-105.21342326326530"/>
+				<Vertex lat="37.84266166232795" lon="-105.21337813879677"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="37.84263481329845" lon="-105.21340111717025"/>
+				<Vertex lat="37.84266277546372" lon="-105.21345500990451"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="37.84271775421688" lon="-105.21364124900823"/>
+				<Vertex lat="37.84277897643661" lon="-105.21359261212594"/>
+			</PaintedLine>
+		</PaintedElements>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="FALSE" deleteAllRunways="TRUE" deleteAllStarts="FALSE" deleteAllTaxiways="TRUE" deleteAllBlastFences="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+	</Airport>
+</FSData>
+
