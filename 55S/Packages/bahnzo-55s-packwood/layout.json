@@ -1,19 +1,29 @@
 {
   "content": [
     {
+      "path": "AirportServices/55S/Services.xml",
+      "size": 2626,
+      "date": 132453747363634479
+    },
+    {
       "path": "ContentInfo/bahnzo-55s-packwood/Thumbnail.jpg",
       "size": 13520,
       "date": 132399269780000000
     },
     {
+      "path": "manifest.json",
+      "size": 276,
+      "date": 132482411738386521
+    },
+    {
       "path": "scenery/55SAirport.bgl",
       "size": 1206,
-      "date": 132482411737896034
+      "date": 132483089310662183
     },
     {
       "path": "scenery/CVX0055.BGL",
       "size": 980,
-      "date": 132482411737990200
+      "date": 132483089310732201
     }
   ]
 }

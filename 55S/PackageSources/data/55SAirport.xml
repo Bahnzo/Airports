@@ -14,8 +14,8 @@
 		<Runway lat="46.60412997153715" lon="-121.67805842827471" alt="320.92313890811056" heading="208.83708190917969" length="716.00000000000000" width="10.00000000000000" patternAltitude="304.79998779296875" surface="{71FF834D-8AB6-4D66-997E-C050FAD5C703}" transparent="FALSE" number="19" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
-			<RunwayStart end="PRIMARY" lat="46.60473885913078" lon="-121.67782439165030" alt="320.92044777648550" heading="194.83706665039063"/>
-			<RunwayStart end="SECONDARY" lat="46.60352108327325" lon="-121.67829245968667" alt="320.92582673339200" heading="14.83699417114258"/>
+			<RunwayStart end="PRIMARY" lat="46.60689380109827" lon="-121.67585514223653" alt="320.91991288587451" heading="-152.19308471679688"/>
+			<RunwayStart end="SECONDARY" lat="46.60135692815035" lon="-121.68027529599291" alt="320.93912126030773" heading="29.00336647033691"/>
 		</Runway>
 		<Aprons>
 			<Apron surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="25.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
