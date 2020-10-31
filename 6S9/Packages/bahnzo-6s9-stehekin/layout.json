@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "AirportServices/6S9/Services.xml",
+      "size": 650,
+      "date": 132485745855799211
+    },
+    {
+      "path": "ContentInfo/bahnzo-6s9-stehekin/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "LivingWorld_Config/6S9_LWcfg.xml",
+      "size": 4716,
+      "date": 132485749262277315
+    },
+    {
+      "path": "manifest.json",
+      "size": 276,
+      "date": 132484201245297996
+    },
+    {
+      "path": "scenery/6S9Airport.bgl",
+      "size": 1418,
+      "date": 132486435815732245
+    },
+    {
+      "path": "scenery/CVX0069.BGL",
+      "size": 964,
+      "date": 132484201244927920
+    }
+  ]
+}
