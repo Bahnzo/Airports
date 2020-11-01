@@ -11,19 +11,14 @@
       "date": 132399269780000000
     },
     {
-      "path": "LivingWorld_Config/6S9_LWcfg.xml",
-      "size": 4716,
-      "date": 132485749262277315
-    },
-    {
       "path": "manifest.json",
-      "size": 276,
-      "date": 132484201245297996
+      "size": 277,
+      "date": 132487445837783309
     },
     {
       "path": "scenery/6S9Airport.bgl",
-      "size": 1418,
-      "date": 132486435815732245
+      "size": 1494,
+      "date": 132487453737969552
     },
     {
       "path": "scenery/CVX0069.BGL",

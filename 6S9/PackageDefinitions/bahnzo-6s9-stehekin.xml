@@ -15,33 +15,25 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\bahnzo-6s9-stehekin\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\bahnzo-6s9-stehekin</OutputDir>
+			<AssetDir>PackageDefinitions\bahnzo-6s9-stehekin\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\bahnzo-6s9-stehekin\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MyAirportServices">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\AirportServices\</AssetDir>
+			<OutputDir>AirportServices\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="bahnzo-6s9-stehekin">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
+			<AssetDir>PackageSources\data\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="MyAirportServices">
-            <Type>Copy</Type>
-            <Flags>
-                <FSXCompatibility>false</FSXCompatibility>
-            </Flags>
-            <AssetDir>PackageSources\AirportServices</AssetDir>
-            <OutputDir>AirportServices</OutputDir>
-        </AssetGroup>
-        <AssetGroup Name="MyLivingworld_Config">
-            <Type>Copy</Type>
-            <Flags>
-                <FSXCompatibility>false</FSXCompatibility>
-            </Flags>
-            <AssetDir>PackageSources\LivingWorld_Config</AssetDir>
-            <OutputDir>LivingWorld_Config</OutputDir>
-        </AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
