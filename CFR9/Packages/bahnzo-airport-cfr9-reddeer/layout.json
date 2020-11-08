@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "AirportServices/CFR9/Services.xml",
+      "size": 650,
+      "date": 132485745855799211
+    },
+    {
+      "path": "ContentInfo/bahnzo-airport-cfr9-reddeer/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132488455795636021
+    },
+    {
+      "path": "scenery/CFR9Airport.bgl",
+      "size": 853,
+      "date": 132488513972313148
+    },
+    {
+      "path": "scenery/CVX0009.BGL",
+      "size": 957,
+      "date": 132488455795229921
+    }
+  ]
+}

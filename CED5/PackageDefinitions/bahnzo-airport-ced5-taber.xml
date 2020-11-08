@@ -1,0 +1,39 @@
+<AssetPackage Name="bahnzo-airport-ced5-taber" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator>Bahnzo</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\bahnzo-airport-ced5-taber\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\bahnzo-airport-ced5-taber\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Decals">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials</AssetDir>
+			<OutputDir>MaterialLibs\Decals\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="bahnzo">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

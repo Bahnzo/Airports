@@ -1,0 +1,8 @@
+<Project Version="2" Name="Airport_CFR9" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\bahnzo-airport-cfr9-reddeer.xml</Package>
+	</Packages>
+</Project>
+

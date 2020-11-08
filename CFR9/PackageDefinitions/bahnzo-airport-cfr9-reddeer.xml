@@ -1,0 +1,31 @@
+<AssetPackage Name="bahnzo-airport-cfr9-reddeer" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\bahnzo-airport-cfr9-reddeer\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\bahnzo-airport-cfr9-reddeer</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-cfr9-reddeer">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

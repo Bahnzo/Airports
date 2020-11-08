@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/bahnzo-airport-ced5-taber/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 277,
+      "date": 132492024935931016
+    },
+    {
+      "path": "MaterialLibs/Decals/Library.xml",
+      "size": 921,
+      "date": 132492024935610942
+    },
+    {
+      "path": "MaterialLibs/Decals/Textures/TABER.PNG.DDS",
+      "size": 1048704,
+      "date": 132492024935740968
+    },
+    {
+      "path": "MaterialLibs/Decals/Textures/Taber.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132492017767848880
+    },
+    {
+      "path": "MaterialLibs/Decals/Textures/TABER.PNG.DDS.json",
+      "size": 249,
+      "date": 132492024935700957
+    },
+    {
+      "path": "scenery/CED5Airport.bgl",
+      "size": 8989,
+      "date": 132492025153378289
+    },
+    {
+      "path": "scenery/CVX0005.BGL",
+      "size": 944,
+      "date": 132489407492912976
+    }
+  ]
+}
