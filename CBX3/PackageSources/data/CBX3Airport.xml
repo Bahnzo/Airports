@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="51.95619862945079" lon="-124.88168056575610" alt="0.00000000000000" pitch="0.000608" bank="-0.000608" heading="-89.412825" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="1.000000"/>
+	</SceneryObject>
+	<Airport country="Canada" state="British Columbia" city="Kleena Kleena" name="Chilanko Lodge" ident="CBX3" lat="51.95477190387926" lon="-124.88132743641849" alt="909.52484673515596" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2019.99927846301694" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="51.95600313520263" lon="-124.88167882082774" heading="180.000000" radius="5.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="51.95695428358835" lon="-124.88516995885922" alt="909.52465963363647" heading="134.56520080566406" length="884.00000000000000" width="30.00000000000000" patternAltitude="304.79998779296875" surface="{92CDDC29-D96D-4144-9A15-4E47DD34FFDB}" transparent="TRUE" number="30" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
+			<RunwayDeformation alt="909.541016" ratio="0.000000"/>
+			<RunwayDeformation alt="909.539185" ratio="1.000000"/>
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="51.95494395332263" lon="-124.88187466742917" alt="909.53689038474113" heading="-45.43506622314453"/>
+			<RunwayStart end="SECONDARY" lat="51.95950098837826" lon="-124.88936473731796" alt="909.54264874663204" heading="134.56503295898438"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{92CDDC29-D96D-4144-9A15-4E47DD34FFDB}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="0" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="51.95388596675807" lon="-124.88074649051066"/>
+				<Vertex lat="51.95426920002987" lon="-124.88016432645725"/>
+				<Vertex lat="51.96024851541123" lon="-124.89007125940061"/>
+				<Vertex lat="51.95987483589519" lon="-124.89059811932026"/>
+			</Apron>
+			<Apron surface="{361CC0CD-4A11-4E23-AAF8-3C1EC1054423}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="-0.000000" falloff="10.000000" opacity="219" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="51.95613349394438" lon="-124.88190356061084"/>
+				<Vertex lat="51.95613349394438" lon="-124.88146722728322"/>
+				<Vertex lat="51.95586390899599" lon="-124.88146722859165"/>
+				<Vertex lat="51.95586390899599" lon="-124.88190355930242"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="51.95601873182132" lon="-124.88168034428493"/>
+				<Vertex lat="51.95596428338542" lon="-124.88167914630235"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="51.95602001725084" lon="-124.88173498595107"/>
+				<Vertex lat="51.95602034612626" lon="-124.88162493358817"/>
+			</PaintedLine>
+		</PaintedElements>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="FALSE" deleteAllHelipads="FALSE" deleteAllRunways="TRUE" deleteAllStarts="FALSE" deleteAllTaxiways="TRUE" deleteAllBlastFences="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+	</Airport>
+</FSData>
+

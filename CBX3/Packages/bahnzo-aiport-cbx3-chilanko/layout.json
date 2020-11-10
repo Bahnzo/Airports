@@ -1,0 +1,24 @@
+{
+  "content": [
+{
+      "path": "AirportServices/6S9/Services.xml",
+      "size": 650,
+      "date": 132485745855799211
+    },
+    {
+      "path": "ContentInfo/bahnzo-aiport-cbx3-chilanko/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "scenery/CBX3Airport.bgl",
+      "size": 1096,
+      "date": 132494489731966483
+    },
+    {
+      "path": "scenery/CVX0003.BGL",
+      "size": 930,
+      "date": 132494489732041258
+    }
+  ]
+}

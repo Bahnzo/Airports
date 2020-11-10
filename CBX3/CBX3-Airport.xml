@@ -1,0 +1,8 @@
+<Project Version="2" Name="CBX3-Airport" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\bahnzo-aiport-cbx3-chilanko.xml</Package>
+	</Packages>
+</Project>
+
